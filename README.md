@@ -46,7 +46,7 @@ Install dependency:
 
 Run program:
 
-    python helloworld.py
+    python win_resource_manager.py
 
 --------------------------------------------------
 MAIN MENU
